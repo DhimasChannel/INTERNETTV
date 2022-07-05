@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Undefined",GTV (720p)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO Family
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/197055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Undefined",ID | TVRI,TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
