@@ -12,8 +12,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="KOMPAS.id" tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" ,KOMPAS TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657066762/ei/qoDEYuKoKMDKz7sP5J2E4A4/ip/182.3.39.49/id/Za5-fvwbPJI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC-n3B-nIQXozirhra3MGyTrCXzOZ04UcdGwz_xNy/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKyPqNPDcm5fOJJZSzEROitr7oSFC4DEy1FiDyuqaTPhAiEAirzXYH-aObJ5DOpPudOt9sdLe585NJOl0-Dq3IFSDYE%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="local channel" tvg-id="NETTV.id" tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" ,NET TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="NETTV.id" tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" ,NET TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657067775/ei/n4TEYqrBFcvA3LUPj6Sf-AI/ip/182.3.39.49/id/50DdLu8pOv0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC1eNNmEVtmI4hsJzEkhCU7lVI4cNB8JfWj54Nobo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgD3tL91RSwhOlmoHkw30vvHDg2XBYBP15V58l3cC9E3YCIDaRgEFXLesdmA-PlFE09txT7afW3WCruWXQZmeMDpiO/file/index.m3u8
 
-#EXTINF:-1 group-title="local channel" tvg-id="TRANS7.id" tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" ,TRANS7
+#EXTINF:-1 group-title="Indonesia" tvg-id="TRANS7.id" tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" ,TRANS7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="TRANSTV.id" tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" ,TRANSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" ,SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
