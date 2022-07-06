@@ -40,3 +40,9 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id="ANTV.id" tvg-name"ANTV" group-title="indonesia",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id="Indosiar.id" tvg-name"Indosiar" group-title="Indonesia",Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
