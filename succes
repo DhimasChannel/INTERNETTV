@@ -32,6 +32,9 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" tvg-id=".SHINTA" tvg-name"[CODAY] TVOne _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] TVOne _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
